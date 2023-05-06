@@ -1,2 +1,4 @@
 # phev-smart-terms
-PHEVsmart Terms and Conditions
+PHEVsmart Terms and Conditions Wiki
+
+- Placeholder repository
